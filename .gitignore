@@ -1,5 +1,3 @@
-# Ignorar la carpeta tareas-app
-NODE JS/tareas-app/
 
 # Ignorar todos los archivos .log
 *.log
